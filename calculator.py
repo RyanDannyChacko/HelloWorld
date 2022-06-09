@@ -5,7 +5,7 @@ second = input("Second number: ")
 
 if operation == "A":
     add = float(first) + float(second)
-    print(f"The sum of {first} and {second} is {add}")
+    print(f'The sum of {first} and {second} is {add}')
 
 if operation == "a":
     add = float(first) + float(second)
